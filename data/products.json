@@ -1,0 +1,500 @@
+{
+  "products": [
+    {
+      "name": "Slim Fit Jeans",
+      "category": "Dresses",
+      "price": 300000,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/Vay-Trung-Den_gdsj9u.jpg",
+      "description": "Modern slim fit jeans with a comfortable stretch for all-day wear.",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 10
+        },
+        {
+          "size": "M",
+          "stock": 10
+        },
+        {
+          "size": "L",
+          "stock": 20
+        },
+        {
+          "size": "XL",
+          "stock": 12
+        },
+        {
+          "size": "XXL",
+          "stock": 10
+        },
+        {
+          "size": "XXXL",
+          "stock": 5
+        },
+        {
+          "size": "XXXXL",
+          "stock": 3
+        }
+      ],
+      "stock": 70,
+      "rating": 0,
+      "reviews": 0,
+      "id": 2
+    },
+    {
+      "name": "Leather Jacket",
+      "category": "Dresses",
+      "price": 290000,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/Vay-CutVai_xmzsvi.jpg",
+      "description": "Premium quality leather jacket with a classic design.",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 3
+        },
+        {
+          "size": "L",
+          "stock": 8
+        },
+        {
+          "size": "XL",
+          "stock": 5
+        },
+        {
+          "size": "XXL",
+          "stock": 3
+        },
+        {
+          "size": "XXXL",
+          "stock": 1
+        }
+      ],
+      "stock": 25,
+      "rating": 0,
+      "reviews": 0,
+      "id": 3
+    },
+    {
+      "name": "Running Shoes",
+      "category": "Dresses",
+      "price": 178000,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/VayNgan-Den_f78pam.jpg",
+      "description": "Lightweight running shoes with excellent cushioning and support.",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 8
+        },
+        {
+          "size": "M",
+          "stock": 2
+        },
+        {
+          "size": "L",
+          "stock": 15
+        },
+        {
+          "size": "XL",
+          "stock": 10
+        },
+        {
+          "size": "XXL",
+          "stock": 5
+        }
+      ],
+      "stock": 40,
+      "rating": 0,
+      "reviews": 0,
+      "id": 4
+    },
+    {
+      "name": "Wool Sweater",
+      "category": "Dresses",
+      "price": 180000,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/VayTayDai-Tim_ghbhqe.jpg",
+      "description": "Warm and cozy wool sweater perfect for cold weather.",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 6
+        },
+        {
+          "size": "M",
+          "stock": 10
+        },
+        {
+          "size": "L",
+          "stock": 12
+        },
+        {
+          "size": "XL",
+          "stock": 8
+        },
+        {
+          "size": "XXL",
+          "stock": 4
+        }
+      ],
+      "stock": 40,
+      "rating": 0,
+      "reviews": 0,
+      "id": 5
+    },
+    {
+      "name": "Đầm QC phối linen tầng",
+      "category": "Shoes",
+      "price": 299000,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/VayNgan-Xam_sh0xst.jpg",
+      "description": "Đầm đẹp vl\n",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 1
+        },
+        {
+          "size": "M",
+          "stock": 0
+        },
+        {
+          "size": "L",
+          "stock": 4
+        },
+        {
+          "size": "XL",
+          "stock": 2
+        },
+        {
+          "size": "XXL",
+          "stock": 1
+        }
+      ],
+      "stock": 8,
+      "rating": 0,
+      "reviews": 0,
+      "id": 6
+    },
+    {
+      "name": "Đầm QC phối linen tầng",
+      "category": "Dresses",
+      "price": 350000,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/Vay-CutVai_xmzsvi.jpg",
+      "description": "Đẹp vl",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 5
+        },
+        {
+          "size": "M",
+          "stock": 6
+        },
+        {
+          "size": "L",
+          "stock": 6
+        },
+        {
+          "size": "XL",
+          "stock": 6
+        },
+        {
+          "size": "XXL",
+          "stock": 4
+        }
+      ],
+      "stock": 27,
+      "rating": 0,
+      "reviews": 0,
+      "id": 7
+    },
+    {
+      "name": "Đầm QC phối linen tầng",
+      "category": "Dresses",
+      "price": 153000,
+      "stock": 10,
+      "rating": 5,
+      "reviews": 0,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/VayNgan-Xam_sh0xst.jpg",
+      "description": "test",
+      "detailDescription": "Váy công sở dài tay thanh lịch với thiết kế cổ V, tay dài và form ôm nhẹ nhàng tôn dáng. Phù hợp cho môi trường làm việc hoặc các sự kiện trang trọng.",
+      "id": 11,
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 2
+        },
+        {
+          "size": "M",
+          "stock": 3
+        },
+        {
+          "size": "L",
+          "stock": 3
+        },
+        {
+          "size": "XL",
+          "stock": 2
+        }
+      ]
+    },
+    {
+      "name": "Đầm QC phối linen tầng",
+      "category": "Dresses",
+      "price": 190000,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/VayNgan-Xam_sh0xst.jpg",
+      "description": "test",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 2
+        },
+        {
+          "size": "M",
+          "stock": 3
+        },
+        {
+          "size": "L",
+          "stock": 3
+        },
+        {
+          "size": "XL",
+          "stock": 2
+        }
+      ],
+      "stock": 10,
+      "rating": 0,
+      "reviews": 0,
+      "id": 12
+    },
+    {
+      "name": "Váy Hỡ Vai",
+      "category": "Dresses",
+      "price": 299000,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/Vay-CutVai_xmzsvi.jpg",
+      "description": "váy hỡ vai xinh ơi là xinh",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 11
+        },
+        {
+          "size": "M",
+          "stock": 12
+        }
+      ],
+      "stock": 23,
+      "rating": 0,
+      "reviews": 0,
+      "id": 13
+    },
+    {
+      "name": "Đầm QC phối linen tầng Xám",
+      "category": "Dresses",
+      "price": 399999,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/VayNgan-Xam_sh0xst.jpg",
+      "description": "đầm xinh ơi là xinh",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 30
+        },
+        {
+          "size": "M",
+          "stock": 12
+        }
+      ],
+      "stock": 42,
+      "rating": 0,
+      "reviews": 0,
+      "id": 14
+    },
+    {
+      "name": "Quần Jeans nữ xám",
+      "category": "Jeans",
+      "price": 500000,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1746458947/OIF_ofhufj.jpg",
+      "description": "xinh lắm bạn ơi",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 11
+        },
+        {
+          "size": "M",
+          "stock": 30
+        },
+        {
+          "size": "L",
+          "stock": 22
+        }
+      ],
+      "stock": 63,
+      "rating": 0,
+      "reviews": 0,
+      "id": 15
+    },
+    {
+      "name": "Quần Jeans nữ đen",
+      "category": "Jeans",
+      "price": 500000,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1746458947/acne-studios-black-faded-denim-jeans-m-zyrxsyh-0-xuxam_as0ujm.jpg",
+      "description": "Quần jeans nữ màu đen chất liệu trâu bò",
+      "sizes": [
+        {
+          "size": "XL",
+          "stock": 12
+        }
+      ],
+      "stock": 12,
+      "rating": 0,
+      "reviews": 0,
+      "id": 16
+    },
+    {
+      "name": "Quần Jeans nữ da bò",
+      "category": "Jeans",
+      "price": 500000,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1746459135/e1efaeee35955566c10185d5d098d5fd_jmhpyu.jpg",
+      "description": "Quần jeans nữ màu da bò",
+      "sizes": [
+        {
+          "size": "XL",
+          "stock": 12
+        },
+        {
+          "size": "M",
+          "stock": 33
+        },
+        {
+          "size": "XXL",
+          "stock": 33
+        },
+        {
+          "size": "XXXXL",
+          "stock": 1
+        }
+      ],
+      "stock": 79,
+      "rating": 0,
+      "reviews": 0,
+      "id": 17
+    },
+    {
+      "name": "Áo thun nữ màu hồng",
+      "category": "T-Shirts",
+      "price": 500000,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1746459401/vn-11134207-7ras8-m561f496g47r4d_tdfium.webp",
+      "description": "Chất liệu sợ tơ tầm chống nước",
+      "sizes": [
+        {
+          "size": "M",
+          "stock": 12
+        },
+        {
+          "size": "L",
+          "stock": 33
+        }
+      ],
+      "stock": 45,
+      "rating": 0,
+      "reviews": 0,
+      "id": 18
+    },
+    {
+      "name": "Áo thun nữ màu trắng",
+      "category": "T-Shirts",
+      "price": 500000,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1746459606/vn-11134207-7ra0g-m81f5vrwlojmcb_s3hbol.webp",
+      "description": "Áo thun nữ màu trắng siêu cute",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 12
+        }
+      ],
+      "stock": 12,
+      "rating": 0,
+      "reviews": 0,
+      "id": 19
+    },
+    {
+      "name": "Áo thun nữ màu trắng",
+      "category": "T-Shirts",
+      "price": 500000,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1746459606/vn-11134207-7ra0g-m81f5vrwlojmcb_s3hbol.webp",
+      "description": "xinh đẹp",
+      "sizes": [
+        {
+          "size": "M",
+          "stock": 12
+        }
+      ],
+      "stock": 12,
+      "rating": 0,
+      "reviews": 0,
+      "id": 20
+    },
+    {
+      "name": "Áo thun nữ màu trắng",
+      "category": "T-Shirts",
+      "price": 50000,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1746459606/vn-11134207-7ra0g-m81f5vrwlojmcb_s3hbol.webp",
+      "description": "áo xinh",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 12
+        },
+        {
+          "size": "M",
+          "stock": 22
+        }
+      ],
+      "stock": 34,
+      "rating": 0,
+      "reviews": 0,
+      "id": 21
+    },
+    {
+      "name": "Áo thun nữ màu trắng",
+      "category": "Shoes",
+      "price": 50000,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1746459606/vn-11134207-7ra0g-m81f5vrwlojmcb_s3hbol.webp",
+      "description": "xinh",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 12
+        }
+      ],
+      "stock": 12,
+      "rating": 0,
+      "reviews": 0,
+      "id": 22
+    },
+    {
+      "name": "Áo thun nữ màu trắng",
+      "category": "Shoes",
+      "price": 299000,
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1746459606/vn-11134207-7ra0g-m81f5vrwlojmcb_s3hbol.webp",
+      "description": "xinh ơi là xinh",
+      "sizes": [
+        {
+          "size": "S",
+          "stock": 12
+        },
+        {
+          "size": "XXL",
+          "stock": 30
+        }
+      ],
+      "stock": 42,
+      "rating": 0,
+      "reviews": 0,
+      "id": 23
+    }
+  ]
+}

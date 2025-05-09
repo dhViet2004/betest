@@ -1,0 +1,116 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "productId": 2,
+      "user": "minh.nguyen",
+      "comment": "Quần jeans đẹp, mặc rất thoải mái và co giãn tốt.",
+      "rating": 5,
+      "date": "2025-05-03"
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "user": "linh.pham",
+      "comment": "Vải dày dặn, giao hàng nhanh. Sẽ ủng hộ lần sau.",
+      "rating": 4,
+      "date": "2025-04-28"
+    },
+    {
+      "id": 3,
+      "productId": 2,
+      "user": "dat.le",
+      "comment": "Đường may chắc chắn, tôn dáng.",
+      "rating": 5,
+      "date": "2025-04-24"
+    },
+    {
+      "id": 4,
+      "productId": 3,
+      "user": "hieu.vo",
+      "comment": "Áo khoác rất chất lượng, mặc vào cực ngầu!",
+      "rating": 5,
+      "date": "2025-05-01"
+    },
+    {
+      "id": 5,
+      "productId": 3,
+      "user": "nhung.nguyen",
+      "comment": "Chất liệu da mềm, đáng tiền.",
+      "rating": 5,
+      "date": "2025-04-29"
+    },
+    {
+      "id": 6,
+      "productId": 4,
+      "user": "hoa.tran",
+      "comment": "Giày nhẹ, đế êm. Mình đi chạy bộ hàng ngày đều dùng đôi này.",
+      "rating": 5,
+      "date": "2025-04-25"
+    },
+    {
+      "id": 7,
+      "productId": 4,
+      "user": "long.vu",
+      "comment": "Chạy rất êm chân, không đau gót.",
+      "rating": 4,
+      "date": "2025-04-22"
+    },
+    {
+      "id": 8,
+      "productId": 5,
+      "user": "khanh.le",
+      "comment": "Áo len hơi nóng khi mặc trong nhà, nhưng ra ngoài thì vừa đẹp vừa ấm.",
+      "rating": 4,
+      "date": "2025-04-20"
+    },
+    {
+      "id": 9,
+      "productId": 5,
+      "user": "thanh.ha",
+      "comment": "Form áo đẹp, giữ ấm tốt.",
+      "rating": 5,
+      "date": "2025-04-18"
+    },
+    {
+      "id": 10,
+      "productId": 6,
+      "user": "mai.nguyen",
+      "comment": "Màu thật hơi khác hình một chút nhưng vẫn đẹp và vừa size.",
+      "rating": 4,
+      "date": "2025-05-02"
+    },
+    {
+      "id": 11,
+      "productId": 6,
+      "user": "an.tran",
+      "comment": "Đầm đẹp, vải mát và nhẹ.",
+      "rating": 5,
+      "date": "2025-04-30"
+    },
+    {
+      "id": 12,
+      "productId": 7,
+      "user": "tuananh.bui",
+      "comment": "Không hài lòng với chất vải, nhanh nhăn và form không đẹp như ảnh.",
+      "rating": 1,
+      "date": "2025-04-30"
+    },
+    {
+      "id": 13,
+      "productId": 11,
+      "user": "thao.vo",
+      "comment": "Form váy vừa vặn, giá lại rẻ. Quá tuyệt vời!",
+      "rating": 5,
+      "date": "2025-04-26"
+    },
+    {
+      "id": 14,
+      "productId": 12,
+      "user": "ngoc.ha",
+      "comment": "Đầm xinh, mặc đi làm hay đi chơi đều được. Đóng gói cẩn thận.",
+      "rating": 5,
+      "date": "2025-04-27"
+    }
+  ]
+}

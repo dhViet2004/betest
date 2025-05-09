@@ -1,0 +1,79 @@
+{
+  "cart": [
+    {
+      "productId": 2,
+      "name": "Slim Fit Jeans",
+      "price": 300000,
+      "quantity": 1,
+      "size": "M",
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/Vay-Trung-Den_gdsj9u.jpg",
+      "stock": 15,
+      "sizes": {
+        "size": "M",
+        "stock": 14
+      },
+      "userId": 11,
+      "id": 1
+    },
+    {
+      "productId": 2,
+      "name": "Slim Fit Jeans",
+      "price": 300000,
+      "quantity": 1,
+      "size": "M",
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/Vay-Trung-Den_gdsj9u.jpg",
+      "stock": 15,
+      "sizes": {
+        "size": "M",
+        "stock": 14
+      },
+      "userId": 7,
+      "id": 5
+    },
+    {
+      "productId": 4,
+      "name": "Running Shoes",
+      "price": 178000,
+      "quantity": 1,
+      "size": "M",
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/VayNgan-Den_f78pam.jpg",
+      "stock": 12,
+      "sizes": {
+        "size": "M",
+        "stock": 11
+      },
+      "userId": 13,
+      "id": 6
+    },
+    {
+      "productId": 2,
+      "name": "Slim Fit Jeans",
+      "price": 300000,
+      "quantity": 1,
+      "size": "M",
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/Vay-Trung-Den_gdsj9u.jpg",
+      "stock": 15,
+      "sizes": {
+        "size": "M",
+        "stock": 14
+      },
+      "userId": 13,
+      "id": 7
+    },
+    {
+      "productId": 2,
+      "name": "Slim Fit Jeans",
+      "price": 300000,
+      "quantity": 1,
+      "size": "M",
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/Vay-Trung-Den_gdsj9u.jpg",
+      "stock": 70,
+      "sizes": {
+        "size": "M",
+        "stock": 69
+      },
+      "userId": 10,
+      "id": 8
+    }
+  ]
+}

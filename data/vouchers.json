@@ -1,0 +1,114 @@
+{
+  "vouchers": [
+    {
+      "id": 1,
+      "code": "FREESHIP",
+      "discount": 30000,
+      "type": "fixed",
+      "minOrder": 0,
+      "startDate": "2024-01-01",
+      "endDate": "2025-12-31",
+      "usedBy": []
+    },
+    {
+      "id": 2,
+      "code": "SALE10",
+      "discount": 10,
+      "type": "percentage",
+      "minOrder": 100000,
+      "startDate": "2024-01-01",
+      "endDate": "2025-12-31",
+      "usedBy": []
+    },
+    {
+      "id": 3,
+      "code": "SALE20",
+      "discount": 20,
+      "type": "percentage",
+      "minOrder": 200000,
+      "startDate": "2024-01-01",
+      "endDate": "2025-12-31",
+      "usedBy": []
+    },
+    {
+      "code": "30THANG4",
+      "type": "fixed",
+      "discount": 10,
+      "minOrder": 500000,
+      "startDate": "2025-04-30",
+      "endDate": "2025-05-31",
+      "id": "1746449354104",
+      "usedBy": [
+        10
+      ]
+    },
+    {
+      "id": "LUCKY10K",
+      "code": "LUCKY10K",
+      "type": "fixed",
+      "discount": 10000,
+      "minOrder": 0,
+      "startDate": "2024-04-01",
+      "endDate": "2026-04-30",
+      "userIds": [
+        91
+      ],
+      "usedBy": []
+    },
+    {
+      "id": "LUCKY10PERCENT",
+      "code": "LUCKY10PERCENT",
+      "type": "percentage",
+      "discount": 10,
+      "minOrder": 0,
+      "startDate": "2024-04-01",
+      "endDate": "2026-04-30",
+      "userIds": [
+        10,
+        1
+      ],
+      "usedBy": [
+        10
+      ]
+    },
+    {
+      "id": "LUCKY50K",
+      "code": "LUCKY50K",
+      "type": "fixed",
+      "discount": 50000,
+      "minOrder": 0,
+      "startDate": "2024-04-01",
+      "endDate": "2026-04-30",
+      "userIds": [
+        91,
+        10
+      ],
+      "usedBy": [
+        10
+      ]
+    },
+    {
+      "id": "LUCKY200K",
+      "code": "LUCKY200K",
+      "type": "fixed",
+      "discount": 200000,
+      "minOrder": 0,
+      "startDate": "2024-04-01",
+      "endDate": "2026-04-30",
+      "userIds": [
+        91
+      ],
+      "usedBy": []
+    },
+    {
+      "code": "FREESHIPTOANQUOC",
+      "type": "fixed",
+      "discount": 50000,
+      "minOrder": 100000,
+      "startDate": "2025-05-06",
+      "endDate": "2025-05-31",
+      "id": "1746547004758",
+      "usedBy": []
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "name": "Hoàng Việt",
+      "password": "admin",
+      "role": "admin",
+      "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744696489/293856112_700167161082539_6334980016010373075_n_po8xll.jpg",
+      "dateCreate": "2023-01-15T10:20:30Z",
+      "address": "Bến Tre",
+      "birthday": "1990-05-20",
+      "phoneNumber": "0364601530",
+      "addresses": [
+        {
+          "province": "Hà Nội",
+          "district": "Cầu Giấy",
+          "address": "123 Đường ABC",
+          "isDefault": true
+        },
+        {
+          "province": "Hồ Chí Minh",
+          "district": "Quận 1",
+          "address": "456 Đường XYZ",
+          "isDefault": false
+        }
+      ],
+      "full_name": "Hoàng Việt",
+      "email": "dviet037@gmail.com"
+    },
+    {
+      "username": "user01",
+      "email": "dviet037@gmail.com",
+      "password": "user01",
+      "full_name": "Hoàng Việt",
+      "role": "user",
+      "id": 6,
+      "name": "Đặng Hoàng Việt",
+      "phoneNumber": "0364601530",
+      "address": "TP.Hồ Chí Minh"
+    },
+    {
+      "username": "duongsatlachong",
+      "email": "duongsatlachong@gmail.com",
+      "password": "google-oauth",
+      "full_name": "DuongSatLacHong",
+      "role": "user",
+      "google_id": "114249137217624289558",
+      "id": 7,
+      "imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJUIbTQbw55fnDI0jkY_eRcUKEeH-Qlwq4uX6-877ZzLZzLXD8=s96-c",
+      "name": "Đặng Hoàng Việt",
+      "addresses": [
+        {
+          "name": "",
+          "phone": "",
+          "email": "",
+          "province": "Tỉnh Cao Bằng",
+          "district": "Huyện Bảo Lâm",
+          "address": "",
+          "note": "",
+          "ward": "",
+          "userId": 7,
+          "isDefault": true
+        }
+      ]
+    },
+    {
+      "username": "dhoangviet1612",
+      "email": "dhoangviet1612@gmail.com",
+      "password": "google-oauth",
+      "full_name": "Viet Hoang",
+      "name": "Viet Hoang",
+      "role": "user",
+      "google_id": "115058230448698672084",
+      "imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocKqq_DKVbDPGvtpAEvUDAfdEhWIJsztxwCGx8hdOwyA_y_L-Lw=s96-c",
+      "dateCreate": "2025-04-27T11:40:00.564Z",
+      "address": "Bến Tre",
+      "birthday": "2004-12-16",
+      "phoneNumber": "0364601530",
+      "id": 8,
+      "addresses": [
+        {
+          "name": "",
+          "phone": "",
+          "email": "",
+          "province": "Tỉnh Cao Bằng",
+          "district": "Huyện Bảo Lâm",
+          "address": "",
+          "note": "",
+          "ward": "",
+          "userId": 8,
+          "isDefault": false
+        },
+        {
+          "_id": "1746608611588",
+          "name": "Đặng Hoàng Việt",
+          "phone": "0364601530",
+          "email": "dviet037@gmail.com",
+          "province": "Tỉnh Hà Giang",
+          "district": "Huyện Mèo Vạc",
+          "ward": "Xã Pải Lủng",
+          "address": "TP.Hồ Chí Minh",
+          "note": "gần ngân hàng",
+          "userId": 8,
+          "isDefault": true
+        }
+      ]
+    },
+    {
+      "username": "danghoangviet004",
+      "email": "danghoangviet004@gmail.com",
+      "password": "google-oauth",
+      "full_name": "Hoàng Việt Đặng",
+      "name": "Hoàng Việt Đặng",
+      "role": "user",
+      "google_id": "111378788031572884782",
+      "imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJbCTgdOQMpQAJ85pDsjwJjGu4r05Km0JRTmXmz5FAsGAlRtg=s96-c",
+      "dateCreate": "2025-04-27T11:40:30.021Z",
+      "address": "Not provided",
+      "birthday": "Not provided",
+      "phoneNumber": "Not provided",
+      "id": 9
+    },
+    {
+      "username": "luongtan204",
+      "email": "luongtan204@gmail.com",
+      "password": "google-oauth",
+      "full_name": "Tan Luong",
+      "name": "Tan Luong",
+      "role": "user",
+      "google_id": "118406958966930316262",
+      "imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocJVA9bdnuNJ_rRQcomCI6GgX2BnZrQZPeomL7k-L7jNNd1FSh414w=s96-c",
+      "dateCreate": "2025-05-02T09:27:34.005Z",
+      "address": "Not provided",
+      "birthday": "Not provided",
+      "phoneNumber": "Not provided",
+      "id": 10,
+      "addresses": [
+        {
+          "name": "Luong Minh Tan",
+          "phone": "0852997990",
+          "email": "luogtan204@gmail.com",
+          "province": "Tỉnh Hoà Bình",
+          "district": "Huyện Cao Phong",
+          "address": "ddd",
+          "note": "",
+          "ward": "Xã Thung Nai",
+          "userId": 10,
+          "isDefault": true
+        }
+      ]
+    },
+    {
+      "username": "nickphubnmq",
+      "email": "nickphubnmq@gmail.com",
+      "password": "google-oauth",
+      "full_name": "Vggkv Fgg",
+      "name": "Vggkv Fgg",
+      "role": "user",
+      "google_id": "105995992209999145751",
+      "imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocKbyN5EdxVnjqdCe8hsFdTsylJehx9VOAYsodwqR7ZAoM9llg=s96-c",
+      "dateCreate": "2025-05-03T07:17:35.916Z",
+      "address": "Not provided",
+      "birthday": "Not provided",
+      "phoneNumber": "Not provided",
+      "id": 11
+    },
+    {
+      "username": "tai123",
+      "email": "tranthanhtai3804@gmail.com",
+      "password": "tai123",
+      "full_name": "Tài",
+      "role": "user",
+      "id": 12
+    },
+    {
+      "username": "tranthanhtai1928",
+      "email": "tranthanhtai1928@gmail.com",
+      "password": "google-oauth",
+      "full_name": "Thành Tài Trần",
+      "name": "Thành Tài Trần",
+      "role": "user",
+      "google_id": "106601256188853447538",
+      "imageUrl": "https://lh3.googleusercontent.com/a/ACg8ocIWgOzNT_-9CAEOgo0v6ruw5cVepVQ073sW5MuOmLF2thguc7uW=s96-c",
+      "dateCreate": "2025-05-05T08:49:34.513Z",
+      "address": "Not provided",
+      "birthday": "Not provided",
+      "phoneNumber": "Not provided",
+      "id": 13,
+      "favorite": [
+        2,
+        3,
+        4,
+        {
+          "name": "Leather Jacket",
+          "category": "Dresses",
+          "price": 290000,
+          "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/Vay-CutVai_xmzsvi.jpg",
+          "description": "Premium quality leather jacket with a classic design.",
+          "sizes": [
+            {
+              "size": "S",
+              "stock": 5
+            },
+            {
+              "size": "M",
+              "stock": 7
+            },
+            {
+              "size": "L",
+              "stock": 8
+            },
+            {
+              "size": "XL",
+              "stock": 5
+            },
+            {
+              "size": "XXL",
+              "stock": 3
+            },
+            {
+              "size": "XXXL",
+              "stock": 1
+            }
+          ],
+          "stock": 29,
+          "rating": "5.0",
+          "reviews": 2,
+          "id": 3
+        },
+        {
+          "name": "Slim Fit Jeans",
+          "category": "Dresses",
+          "price": 300000,
+          "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/Vay-Trung-Den_gdsj9u.jpg",
+          "description": "Modern slim fit jeans with a comfortable stretch for all-day wear.",
+          "sizes": [
+            {
+              "size": "S",
+              "stock": 10
+            },
+            {
+              "size": "M",
+              "stock": 15
+            },
+            {
+              "size": "L",
+              "stock": 20
+            },
+            {
+              "size": "XL",
+              "stock": 12
+            },
+            {
+              "size": "XXL",
+              "stock": 10
+            },
+            {
+              "size": "XXXL",
+              "stock": 5
+            },
+            {
+              "size": "XXXXL",
+              "stock": 3
+            }
+          ],
+          "stock": 75,
+          "rating": "4.7",
+          "reviews": 3,
+          "id": 2
+        },
+        {
+          "name": "Running Shoes",
+          "category": "Dresses",
+          "price": 178000,
+          "imageUrl": "https://res.cloudinary.com/dh1o42tjk/image/upload/v1744644438/VayNgan-Den_f78pam.jpg",
+          "description": "Lightweight running shoes with excellent cushioning and support.",
+          "sizes": [
+            {
+              "size": "S",
+              "stock": 8
+            },
+            {
+              "size": "M",
+              "stock": 12
+            },
+            {
+              "size": "L",
+              "stock": 15
+            },
+            {
+              "size": "XL",
+              "stock": 10
+            },
+            {
+              "size": "XXL",
+              "stock": 5
+            }
+          ],
+          "stock": 50,
+          "rating": "4.5",
+          "reviews": 2,
+          "id": 4
+        }
+      ]
+    }
+  ]
+}
